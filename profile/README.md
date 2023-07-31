@@ -1,14 +1,9 @@
+## Development for Umidigi A5 Pro (`breeze`)
+<img align="right" width="350" height="350" src="https://cdn-files.kimovil.com/default/0003/09/thumb_208667_default_big.jpeg">
 
-<h2>
-	Hi there 👋!
-</h2>
-<h3>
-	# ⚡ About Us
+This organization contains all the important repositories required to build AOSP ROMs for Umidigi A5 Pro.
 
-We are developers for UMIDIGI A5 Pro model released in 2019
-
-# 💻 Our Work on Custom ROM
-
-- Support Group : https://t.me/UMIDIGIA5Pro
-- Current Supported Android Version : Android 12L/S
-</h3>
+### Repositories
+* [**Device Tree**](https://github.com/umidigi-mt6763-dev/android_device_umidigi_breeze) (`android_device_umidigi_breeze`)
+* [**Kernel Tree**](https://github.com/umidigi-mt6763-dev/android_device_umidigi_breeze-kernel) (`android_device_umidigi_breeze-kernel`)
+* [**Vendor Tree**](https://github.com/umidigi-mt6763-dev/android_vendor_umidigi_breeze) (`android_vendor_umidigi_breeze`)
