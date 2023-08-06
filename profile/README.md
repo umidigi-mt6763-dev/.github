@@ -7,3 +7,4 @@ This organization contains all the important repositories required to build AOSP
 * [**Device Tree**](https://github.com/umidigi-mt6763-dev/android_device_umidigi_breeze) (`android_device_umidigi_breeze`)
 * [**Kernel Tree**](https://github.com/umidigi-mt6763-dev/android_device_umidigi_breeze-kernel) (`android_device_umidigi_breeze-kernel`)
 * [**Vendor Tree**](https://github.com/umidigi-mt6763-dev/android_vendor_umidigi_breeze) (`android_vendor_umidigi_breeze`)
+* [**Patches**](https://github.com/umidigi-mt6763-dev/patches) (`patches`)
